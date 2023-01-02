@@ -1,0 +1,33 @@
+//If you know a solution is not far from the root of the tree:
+Breadth first search
+
+//If the tree is very deep and solutions are rare: 
+Depth first search
+//If the tree is very wide:
+Breadth first search
+
+//If solutions are frequent but located deep in the tree:
+Depth first search
+//Determining whether a path exists between two nodes:
+Depth first search
+//Finding the shortest path:
+Breadth first search
+
+instructor's solution:
+//If you know a solution is not far from the root of the tree:
+BFS
+
+//If the tree is very deep and solutions are rare, 
+BFS (DFS will take long time. )
+
+//If the tree is very wide:
+DFS (BFS will need too much memory)
+
+//If solutions are frequent but located deep in the tree
+DFS
+
+//determining whether a path exists between two nodes
+DFS
+
+//Finding the shortest path
+BFS
