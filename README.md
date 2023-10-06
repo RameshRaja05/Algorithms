@@ -1,2 +1,2 @@
 # Algorithms
-In Javascript and Python
+## All important algorithms those should know available here.
